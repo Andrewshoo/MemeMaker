@@ -23,7 +23,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         topChoiceSegment()
         bottomChoiceSegment()
-        
+        changeImage.image = UIImage(named: "dog in car")
     }
     
     func topChoiceSegment() {

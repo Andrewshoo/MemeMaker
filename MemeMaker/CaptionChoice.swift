@@ -10,6 +10,7 @@ import Foundation
 struct CaptionOption {
     let emodji: String
     let caption: String
+    let imageName: String
 }
 
 

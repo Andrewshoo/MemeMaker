@@ -36,7 +36,7 @@
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dog in car" translatesAutoresizingMaskIntoConstraints="NO" id="rlx-lg-XNM">
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="rlx-lg-XNM">
                                         <rect key="frame" x="0.0" y="102.5" width="250" height="250"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="250" id="EgB-dU-6B8"/>
@@ -74,6 +74,7 @@
                     <connections>
                         <outlet property="bottomCaptionSegmentedControl" destination="Rve-aN-vEi" id="MSW-3H-VJY"/>
                         <outlet property="bottomLabel" destination="TGX-L8-bl1" id="6i6-Px-nf5"/>
+                        <outlet property="changeImage" destination="rlx-lg-XNM" id="sHU-SL-6Hd"/>
                         <outlet property="topCaptionSegmentedControl" destination="RaJ-QW-TLl" id="RN9-iq-u36"/>
                         <outlet property="topLabel" destination="lcZ-gZ-cBR" id="7Iv-qU-JGE"/>
                     </connections>
@@ -84,7 +85,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="dog in car" width="768" height="767"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>

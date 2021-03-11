@@ -14,7 +14,6 @@
 		555E43B125FA057500D60D0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 555E43B025FA057500D60D0D /* Assets.xcassets */; };
 		555E43B425FA057500D60D0D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 555E43B225FA057500D60D0D /* LaunchScreen.storyboard */; };
 		555E43BD25FA136600D60D0D /* CaptionChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555E43BC25FA136600D60D0D /* CaptionChoice.swift */; };
-		555E43C025FA31FE00D60D0D /* editor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555E43BF25FA31FE00D60D0D /* editor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		555E43B325FA057500D60D0D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		555E43B525FA057500D60D0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		555E43BC25FA136600D60D0D /* CaptionChoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionChoice.swift; sourceTree = "<group>"; };
-		555E43BF25FA31FE00D60D0D /* editor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = editor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +61,6 @@
 				555E43A725FA057400D60D0D /* AppDelegate.swift */,
 				555E43A925FA057400D60D0D /* SceneDelegate.swift */,
 				555E43AB25FA057400D60D0D /* ViewController.swift */,
-				555E43BF25FA31FE00D60D0D /* editor.swift */,
 				555E43AD25FA057400D60D0D /* Main.storyboard */,
 				555E43BC25FA136600D60D0D /* CaptionChoice.swift */,
 				555E43B025FA057500D60D0D /* Assets.xcassets */,
@@ -147,7 +144,6 @@
 				555E43A825FA057400D60D0D /* AppDelegate.swift in Sources */,
 				555E43AA25FA057400D60D0D /* SceneDelegate.swift in Sources */,
 				555E43BD25FA136600D60D0D /* CaptionChoice.swift in Sources */,
-				555E43C025FA31FE00D60D0D /* editor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

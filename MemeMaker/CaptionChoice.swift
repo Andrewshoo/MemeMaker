@@ -8,9 +8,8 @@
 import Foundation
 
 struct CaptionOption {
-    let emodji: String
+
+    let emoji: String
     let caption: String
     let imageName: String
 }
-
-
